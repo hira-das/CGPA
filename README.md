@@ -1,1 +1,1 @@
-# CGPA
+Update CGPA calculation script
